@@ -1,1 +1,0 @@
-# CSCI4830-Memory-Palace
